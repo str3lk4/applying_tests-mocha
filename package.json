@@ -1,0 +1,19 @@
+{
+  "name": "applying_tests-mocha",
+  "version": "1.0.0",
+  "description": "repo for study unit testing using mocha and the chai assertion library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha 'test/'"
+  },
+  "keywords": [
+    "unit",
+    "testing"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
