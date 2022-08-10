@@ -29,4 +29,4 @@ describe("Maximum Wealth Testing Batteries: ", function () {
             expect(maximumWealth([[22, 68, 20], [3, 25, 16, 32, 10]])).to.eql(110);
         })
     })
-})
+});
